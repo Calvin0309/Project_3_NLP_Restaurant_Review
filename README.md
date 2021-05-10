@@ -2,7 +2,8 @@
 
 For this project, I will create a Natural Language Processing ML model to predict whether the restaurant review from the customers is positive or negative.
 
--Users can use the model to make prediction by key in the sentences at the "Making prediction" cell.
+-Users can use the model to make prediction by key in the sentences at the "Making prediction" cell, line 1. After that, run the 2 cells and the result will print out.
+(0=negative, 1=positive)
 
 ## **Result:**
 
